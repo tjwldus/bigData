@@ -37,7 +37,6 @@ Streamlit 웹 대시보드를 제작하여 지역별 교통사고 현황을 시�
   - 부상신고자수  
 
 ### 📌 분석 기능
-- 기본 데이터 조회
 - 시도별 사고 통계 시각화
 - 시군구별 사고 지도/그래프 분석
 - 시도 간 교통사고 지표 비교
@@ -53,15 +52,15 @@ Streamlit 웹 대시보드를 제작하여 지역별 교통사고 현황을 시�
 ---
 
 ## 6. 링크 설정
-- Streamlit 서비스 링크 (배포 시)
 - 데이터 출처 링크  
   https://www.data.go.kr/
 
 ---
 
 ## 7. 팀원 소개
-- 차은우  
-(역할: Streamlit UI 개발, 데이터 시각화, README 작성 등)
+서지연 : 발표, 주제선정
+홍다은 : Streamlit UI 개발, 데이터 시각화, 질의응답
+황채린 : README 작성 
 
 ---
 
@@ -71,12 +70,3 @@ Streamlit 웹 대시보드를 제작하여 지역별 교통사고 현황을 시�
 - Plotly Express: https://plotly.com/python/plotly-express/
 
 ---
-
-## 9. 코드 Push
-GitHub 코드 저장소에 모든 소스코드를 push하여 공유한다.
-
-예:
-```bash
-git add .
-git commit -m "교통사고 분석 프로젝트 초기 버전"
-git push origin main
